@@ -1,5 +1,4 @@
-
-# mypaper
+# My paper on things
 
 ## Introduction
 Im trying very hard.
